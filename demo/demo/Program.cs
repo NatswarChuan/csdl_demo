@@ -17,6 +17,8 @@ namespace demo
             Console.Write(c);
             Console.Write(c);
             Console.Write(c);
+
+            Console.Write("hello");
         }
     }
 }
