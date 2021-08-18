@@ -17,6 +17,9 @@ namespace demo
             Console.Write(c);
             Console.Write(c);
             Console.Write(c);
+            Console.WriteLine(a+b);
+            Console.WriteLine(a /b);
+            Console.WriteLine(a - b);
         }
     }
 }
