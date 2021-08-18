@@ -11,6 +11,12 @@ namespace demo
             int c = a + b;
             
             Console.Write(c);
+            Console.Write(c);
+            Console.Write(c);
+            Console.Write(c);
+            Console.Write(c);
+            Console.Write(c);
+            Console.Write(c);
         }
     }
 }
